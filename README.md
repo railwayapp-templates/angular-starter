@@ -3,27 +3,27 @@ title: Angular + TypeScript + Caddy
 description: The default Angular TS starter, utilizing `Caddy` to serve the built single page app
 tags:
   - Node
-  - Angular 17
+  - Angular 18
   - TypeScript
   - Caddy
 ---
 
 # Angular + TypeScript + Caddy
 
-This project was originally generated with [`npm init @angular myApp`](https://angular.io/quick-start#create-a-new-angular-app-from-the-command-line)
+This project was originally generated with [`ng new my-app`](https://angular.dev/tools/cli/setup-local#create-a-workspace-and-initial-application)
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/13NBfA?referralCode=ySCnWl)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/13NBfA?referralCode=brody)
 
 ## ✨ Features
 
-- Angular 17 + TypeScript + Caddy
+- Angular 18 + TypeScript + Caddy
 - Caddy v2
 
 ## 💁‍♀️ Local Development
 
 - Install required dependencies with `npm install`
 - Run `npm run dev` for a dev server
-- Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Navigate to `http://127.0.0.1:4200/`. The application will automatically reload if you change any of the source files.
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
