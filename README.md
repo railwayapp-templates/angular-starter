@@ -16,7 +16,7 @@ This project was originally generated with [`ng new my-app`](https://angular.dev
 
 ## ✨ Features
 
-- Angular 18 + TypeScript + Caddy
+- Angular 19 + TypeScript + Caddy
 - Caddy v2
 
 ## 💁‍♀️ Local Development
