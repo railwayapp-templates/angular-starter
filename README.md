@@ -3,7 +3,7 @@ title: Angular + TypeScript + Caddy
 description: The default Angular TS starter, utilizing `Caddy` to serve the built single page app
 tags:
   - Node
-  - Angular 18
+  - Angular 19
   - TypeScript
   - Caddy
 ---
